@@ -31,4 +31,5 @@ flight/data-logger: firmware to collect data during test flights
 flight/dual-deploy: firmware for dual-deploy parachute recovery 
 
 terminal: firmware to allow terminal access to all PCB hardware 
+test
 </p>
